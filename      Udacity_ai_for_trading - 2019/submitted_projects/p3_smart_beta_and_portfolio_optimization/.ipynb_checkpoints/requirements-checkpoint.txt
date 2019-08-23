@@ -3,7 +3,7 @@ cvxpy
 cycler
 numpy
 pandas
-plotly
+plotly==2.2.3
 pyparsing
 python-dateutil
 pytz
