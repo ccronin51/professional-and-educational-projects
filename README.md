@@ -1,4 +1,4 @@
-# educational_projects_private
+# educational_projects
  Hosted here are my educational ML projects with full code & information
 
 Educational Projects
